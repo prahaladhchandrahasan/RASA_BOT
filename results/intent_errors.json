@@ -1,0 +1,10 @@
+[
+  {
+    "text": "who is at a higher risk of infection",
+    "intent": "high_risk",
+    "intent_prediction": {
+      "name": "corona_spread",
+      "confidence": 0.3490806519985199
+    }
+  }
+]
